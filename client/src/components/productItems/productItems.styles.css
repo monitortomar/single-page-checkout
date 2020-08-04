@@ -1,0 +1,16 @@
+.product-item {
+  display: flex;
+  width: 28%;
+  background: #ffffff;
+  flex-direction: column;
+  box-shadow: 1px 1px 1px 1px #8888;
+  justify-content: space-between;
+  border-radius: 6px;
+}
+
+.product-content {
+  display: flex;
+  height: 47%;
+  flex-direction: column;
+  justify-content: flex-end;
+}

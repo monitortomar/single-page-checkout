@@ -1,0 +1,13 @@
+.checkout-amount {
+  width: 24%;
+  height: 70%;
+  /* border-style: groove; */
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 1px 1px 1px 1px #8888;
+  border-radius: 3px;
+  justify-content: space-between;
+  background: white;
+  align-items: center;
+}

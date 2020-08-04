@@ -1,0 +1,18 @@
+.checkout-product {
+  display: flex;
+  flex-direction: row;
+  font-family: "Encode Sans Semi Condensed", sans-serif;
+  width: 99%;
+  height: 20%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.count-span {
+  width: 75%;
+}
+
+.product-span {
+  margin-left: 5px;
+  width: 25%;
+}

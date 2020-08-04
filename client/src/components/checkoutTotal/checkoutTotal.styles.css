@@ -1,0 +1,10 @@
+.checkout-total {
+  display: flex;
+  flex-direction: row;
+  font-family: "Encode Sans Semi Condensed", sans-serif;
+  width: 99%;
+  height: 20%;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 15px;
+}

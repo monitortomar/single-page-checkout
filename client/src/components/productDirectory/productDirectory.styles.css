@@ -1,0 +1,20 @@
+.product-directory {
+  width: 70%;
+  height: 55%;
+  margin-left: 20px;
+  /* margin: 20px; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+/* .product-directory:after {
+  content: "";
+  background-color: #9a9a9a;
+  position: absolute;
+  width: 2px;
+  height: 80%;
+  top: 56px;
+  left: 70%;
+  display: block;
+} */

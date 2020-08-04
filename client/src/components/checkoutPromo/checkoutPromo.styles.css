@@ -1,0 +1,70 @@
+.checkout-promotion {
+  position: relative;
+  margin-top: 15px;
+  display: flex;
+  height: 35%;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 5px;
+}
+
+.promo-desc {
+  font-family: "Encode Sans Semi Condensed", sans-serif;
+}
+
+.checkout-promotion-input {
+  width: 87%;
+  padding: 15px;
+  text-align: left;
+}
+
+.checkout-promotion-button {
+  position: absolute;
+  right: 10px;
+  top: 7px;
+
+  -webkit-appearance: none;
+  -moz-appearance: none;
+
+  border: none;
+  background: #ededed;
+  border-radius: 3px;
+  padding: 10px;
+
+  transition: all 0.2s;
+}
+.checkout-promotion-button-apply {
+  position: absolute;
+  right: 10px;
+  top: 7px;
+
+  -webkit-appearance: none;
+  -moz-appearance: none;
+
+  border: none;
+  background: #4caf5091;
+  border-radius: 3px;
+  padding: 10px;
+
+  transition: all 0.2s;
+}
+.checkout-promotion-button-no {
+  position: absolute;
+  right: 10px;
+  top: 7px;
+
+  -webkit-appearance: none;
+  -moz-appearance: none;
+
+  border: none;
+  background: #ff7043;
+  border-radius: 3px;
+  padding: 10px;
+
+  transition: all 0.2s;
+}
+.checkout-promotion-button.hover {
+  background-color: #37c88d;
+  color: #fff;
+  cursor: pointer;
+}

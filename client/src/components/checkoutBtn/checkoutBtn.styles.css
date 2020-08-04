@@ -1,0 +1,16 @@
+.checkout-btn {
+  display: flex;
+  width: 47%;
+  height: 10%;
+  cursor: pointer;
+  background-color: #ff57229e;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin: 4px 2px 14px 2px;
+}
